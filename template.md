@@ -6,9 +6,6 @@
 ## Education
 
 - Bachelor: Biomedical Engineering at/from Universidad de los Andes (LINK UNIVERSITY)
-- Master: (STUDENT/DEGREE) at/from [UNIVERSITY](LINK UNIVERSITY)
--  Doctorate: (STUDENT/DEGREE) at/from [UNIVERSITY](LINK UNIVERSITY)
-- Post Doctorate: (STUDENT/DEGREE) at/from [UNIVERSITY](LINK UNIVERSITY)
 
 <!-- While BIOMAC is our common group, the collaboration between groups and affiliations are encourage -->
 ## Affiliations
@@ -31,9 +28,7 @@
 
 ### Current:
 
-- Current research topic #1
-- Current research topic #2
-
+- Synthetic Biology (iGEM)
 <!-- Topics that you haven't research yet but are intriguing to you -->
 ### Future interests:
 
