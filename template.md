@@ -5,7 +5,7 @@
 <!-- All of your education background -->
 ## Education
 
-- Bachelor: Biomedical Engineering at/from Universidad de los Andes (LINK UNIVERSITY)
+- Bachelor: Biomedical Engineering at/from ([Universidad de los Andes](https://ingbiomedica.uniandes.edu.co/es))
 
 <!-- While BIOMAC is our common group, the collaboration between groups and affiliations are encourage -->
 ## Affiliations
@@ -21,29 +21,20 @@
 <!-- Showing what you work on, lets other collaborate with you -->
 ## Research
 
-### Previous:
-
-- Previous research topics #1
-- Previous research topics #2
-
 ### Current:
 
-- Synthetic Biology (iGEM)
+- Synthetic Biology - Modelling a genetic circuit for detection of contaminants in water. (iGEM)
+
 <!-- Topics that you haven't research yet but are intriguing to you -->
-### Future interests:
-
-- Future interests research topic #1
-- Future interests research topic #2
-
 
 <!-- Because we are humans before researchers -->
 ## Hobbies
 
-- Hooby #1
-- Hooby #2
-
+- Crochet
+- Reading
+- Drawing
 
 ## Contact
 
-You can reach me at <email@example.com>
+You can reach me at <i.llano@uniandes.edu.co>
 
