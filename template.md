@@ -30,9 +30,10 @@
 <!-- Because we are humans before researchers -->
 ## Hobbies
 
-- Crochet
+- Crochetgit 
 - Reading
 - Drawing
+- Currently learning how to climb :)
 
 ## Contact
 
